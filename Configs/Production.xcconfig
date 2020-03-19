@@ -1,0 +1,22 @@
+//
+//  Production.xcconfig
+//  IOSEnvironmentSetup
+//
+//  Created by Michael Haviv on 2/18/20.
+//  Copyright © 2020 Michael Haviv. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+// Production.xcconfig
+// Server URL
+ROOT_URL = https:/$()/www.IOSEnvironmentSetup.Michael-Haviv.com
+
+// Keys
+API_KEY = 9ud0930djd_md9zdjdko3830lb0d
+
+// App Settings
+APP_NAME = IOSEnvironmentSetup
+APP_BUNDLE_ID = com.Michael-Haviv.IOSEnvironmentSetup
